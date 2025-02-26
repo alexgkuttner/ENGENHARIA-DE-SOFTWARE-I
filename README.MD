@@ -17,13 +17,14 @@ certo e na quantidade adequada. Pedro também trabalha com os líderes de cada l
 otimizar a utilização dos materiais.
 --
 Delícias Gourmet
-indústria alimentícia
-controle de materiais
+alimentícia
+materiais
 qualidade
 eficiência
 setores
-sistema de controle
-colaboração com os fornecedores
+sistema
+controle
+colaboração
 preços
 estoque
 armazenamento
@@ -31,3 +32,7 @@ materiais
 organizados
 ingredientes
 quantidade
+fornecedores
+lideres
+produção
+processo-chave
